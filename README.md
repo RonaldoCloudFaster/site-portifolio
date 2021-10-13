@@ -11,6 +11,11 @@ Nesse curso voce vai dominar tudo **git** e **github** _do zero ao profisssional
 * GIT avançado
 * Usando git de forma profissional
 
+1. Comecancom GIT
+2. Aprendendo sobre branches
+3. GIT avançado
+4. Usando git de forma profisssional_
+
 ### Rede Social:
 [Instagram](https://instagram.com/sujeitoprogramador)
 
